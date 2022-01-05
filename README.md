@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Michael Laigaard
 - 👀 I’m interested in Python Programming for automation and Data Science
-- 🌱 I’m currently learning Data Science core concepts as well as some back end programming.
+- 🌱 I’m currently learning Data Analysis as well as back end programming.
 - 💞️ I’m looking to collaborate on anything!  Always looking to expand my knowledge by working with others.
-- 📫 How to reach me via linked in email (TODO: add links)
+- 📫 Reach me via linkedin - https://www.linkedin.com/in/michael-laigaard/
